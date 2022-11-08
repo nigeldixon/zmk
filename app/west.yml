@@ -5,7 +5,7 @@ manifest:
     - name: nigeldixon 
       url-base: https://github.com/nigeldixon
   projects:
-    - name: zephyr
+    - name: zmk-zephyr
       remote: nigeldixon
       revision: fix-oled
       clone-depth: 1
